@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WYQycuUEwHc=",
+  "dgSpecHash": "hkHkjdeokfw=",
   "success": true,
-  "projectFilePath": "C:\\xampp\\htdocs\\ejemplo\\CalculatorClient\\CalculatorClient.csproj",
+  "projectFilePath": "D:\\Distribuidas\\Consumo_servicio_web_SOAP\\ejemplo\\CalculatorClient\\CalculatorClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adrian Ramos\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\Adrian Ramos\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

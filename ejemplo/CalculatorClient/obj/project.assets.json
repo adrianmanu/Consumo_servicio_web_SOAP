@@ -3024,11 +3024,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\ejemplo\\CalculatorClient\\CalculatorClient.csproj",
+      "projectUniqueName": "D:\\Distribuidas\\Consumo_servicio_web_SOAP\\ejemplo\\CalculatorClient\\CalculatorClient.csproj",
       "projectName": "CalculatorClient",
-      "projectPath": "C:\\xampp\\htdocs\\ejemplo\\CalculatorClient\\CalculatorClient.csproj",
+      "projectPath": "D:\\Distribuidas\\Consumo_servicio_web_SOAP\\ejemplo\\CalculatorClient\\CalculatorClient.csproj",
       "packagesPath": "C:\\Users\\Adrian Ramos\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\ejemplo\\CalculatorClient\\obj\\",
+      "outputPath": "D:\\Distribuidas\\Consumo_servicio_web_SOAP\\ejemplo\\CalculatorClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Adrian Ramos\\AppData\\Roaming\\NuGet\\NuGet.Config",
